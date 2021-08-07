@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently studying on Senior High School on Malang, Jawa Timur, Indonesia
 - 🌱 I’m currently learning JS, CPP, C, PHP and HTML
-- ⚡fun fact:  Im is Open Mind Man
+- ⚡fun fact: Nothing Fun :(
 - 📫 How to reach me : [GMAIL](mailto:athallahdzaki@gmail.com) [FACEBOOK](https://facebook.com/AthallahDzaki) [DISCORD](https://discord.gg/idrp)
 
 - [My Repl.it Project](https://github.com/AthallahDzaki/MyRepl.it)
