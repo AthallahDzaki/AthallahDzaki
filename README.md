@@ -13,4 +13,5 @@
 - [My Repl.it Project](https://github.com/AthallahDzaki/MyRepl.it)
 
 ## 📊 My weekly status
-<img src="https://github.com/AthallahDzaki/AthallahDzaki/blob/king/images/stat.svg" alt="AthallahDzaki status"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
