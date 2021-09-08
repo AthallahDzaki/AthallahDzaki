@@ -15,6 +15,6 @@
 ## 📊 My weekly status
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   2 hrs 3 mins    █████████████████████████   99.54 % 
 ```
 <!--END_SECTION:waka-->
