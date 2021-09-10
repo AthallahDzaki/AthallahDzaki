@@ -8,7 +8,7 @@
 - 🔭 I’m currently studying on Senior High School on Malang, Jawa Timur, Indonesia
 - 🌱 I’m currently learning JS, CPP, C, PHP and HTML
 - ⚡fun fact: Nothing Fun :(
-- 📫 How to reach me : [GMAIL](mailto:athallahdzaki@gmail.com) [FACEBOOK](https://facebook.com/AthallahDzaki) [DISCORD](https://discord.gg/idrp)
+- 📫 How to reach me : [GMAIL](mailto:athallahdzaki@gmail.com) [FACEBOOK](https://facebook.com/AthallahDzaki) [DISCORD](https://discord.gg/sampindo)
 
 - [My Repl.it Project](https://github.com/AthallahDzaki/MyRepl.it)
 
