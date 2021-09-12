@@ -12,7 +12,7 @@
 
 - [My Repl.it Project](https://github.com/AthallahDzaki/MyRepl.it)
 
-## 📊 My weekly status
+## 📊 My weekly activity
 <!--START_SECTION:waka-->
 ```text
 JavaScript       17 hrs 6 mins   ████████████████████████▒   97.44 % 
