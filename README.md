@@ -32,6 +32,9 @@
   
   <details>
     <summary>My Wakatime breakdown</summary>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AthallahDzaki&layout=compact">
+    <img
+      src="https://github.com/AthallahDzaki/AthallahDzaki/blob/king/images/stat.svg"
+      alt="Alternative Text"
+    />
   </details>
 </div>
