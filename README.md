@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
   <br><br>
+  
+  <img src="https://discord.c99.nl/widget/theme-2/391751101927653378.png"/>
 
   You can reach me here:<br><br>
   <a href="mailto:me@athallahdzaki.my.id" style="text-decoration: none;">
