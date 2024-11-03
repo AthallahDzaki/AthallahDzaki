@@ -3,10 +3,6 @@ name: Auto Commit
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on a push event to the "main" branch
-  push:
-    branches: [ "main" ]
-
   # Schedule the workflow to run using a cron expression
   schedule:
     # Runs at 0 minutes past the hour, every 3 hours, starting at 01:00
